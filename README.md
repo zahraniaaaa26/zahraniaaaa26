@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Zahra Kurnia Chandra Dini**.<br>
 
-Saya seorang **Mahasiswa prodi Informatika** di [Universitas Gunadarma(https://gunadarma.ac.id/).<br>
+Saya seorang **Mahasiswa prodi Informatika** di [Universitas Gunadarma](https://gunadarma.ac.id/).<br>
 
 Saya sangat teratrik pada bidang database dan mengikuti kursus Oracle dan Mysql selama 4 semester, saya juga tertarik di bidang desain ui/ux pada sebuah website, 
 
